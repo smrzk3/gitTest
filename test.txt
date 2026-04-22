@@ -1,9 +1,2 @@
-testb
-test2
-test3
-test4
-test6
-test7
-test8
-test9
-test10
+Version 1.0.0
+リリース1.0.0に向けて修正を入れる
